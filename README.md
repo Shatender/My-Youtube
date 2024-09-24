@@ -8,15 +8,17 @@ YouTube Clone is a React-based application that replicates the core functionalit
 - **Search Functionality**: Users can search for videos with Google auto-suggestions in the search bar.
 - **Toggle Menus**: Easy navigation through toggle menus for different categories and features.
 - **Watch Page**: Allows users to view videos with a like button and subscribe button, tracking user interactions dynamically.
-- **Responsive Design**: Optimized for various devices, providing a user-friendly experience across screens.
+
 
 ## UI Interface
 Below are some screenshots of the application interface:
 
-![Home Page]  
+![Home Page]  ![image](https://github.com/user-attachments/assets/803feffe-97c3-43dd-9cea-a9c1666e00a5)
+
 *Home Page with video thumbnails and search functionality.*
 
-![Watch Page] 
+![Watch Page] ![image](https://github.com/user-attachments/assets/972ef0a3-4de2-4dc5-be31-de0cafbf6bf4)
+
 *Watch Page featuring the video player, like, and subscribe buttons.*
 
 *Feel free to replace the paths with the actual paths to your images or add more screenshots as needed.*
