@@ -17,7 +17,8 @@ Below are some screenshots of the application interface:
 
 *Home Page with video thumbnails and search functionality.*
 
-![Watch Page] ![image](https://github.com/user-attachments/assets/972ef0a3-4de2-4dc5-be31-de0cafbf6bf4)
+![Watch Page] ![image](https://github.com/user-attachments/assets/69ffd3fc-8eda-48c2-84c8-678b292af2d2)
+
 
 *Watch Page featuring the video player, like, and subscribe buttons.*
 
